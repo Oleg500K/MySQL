@@ -1,1 +1,3 @@
-Репозиторий для хранения SQL запросов и баз данных
+# MySQL
+Repository for databases and MySQL tasks
+
