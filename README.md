@@ -1,3 +1,3 @@
 # MySQL
-Repository for databases and MySQL tasks
+Repository for databases and MySQL tasks!
 
